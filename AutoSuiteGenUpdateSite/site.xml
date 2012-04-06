@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/AutoSuiteGenFeature_1.0.0.201204031235.jar" id="AutoSuiteGenFeature" version="1.0.0.201204031235">
+   <feature url="features/AutoSuiteGenFeature_0.0.1.jar" id="AutoSuiteGenFeature" version="0.0.1">
       <category name="テスト用プラグイン"/>
    </feature>
    <category-def name="テスト用プラグイン" label="テスト用プラグイン"/>
